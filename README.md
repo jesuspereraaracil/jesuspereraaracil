@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jesuspereraaracil
 - 👀 I’m interested in TypeScript/React/Programming
-- 📫 How to reach me: egosum@gmail.com
+- 📫 How to reach me: jpereraaracil@gmail.com
 <!-- - 🌱 I’m currently learning  -->
 <!-- - 💞️ I’m looking to collaborate on -->
 <!---
